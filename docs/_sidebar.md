@@ -1,5 +1,5 @@
 - [:octocat: 首页](/README)
 - :memo: 目录
-   - Redis源码剖析：
-      
-   - Netty核心实战：
+   - Redis源码剖析
+      - [设计模式原则](/md/design-code/设计模式原则.md)
+   - Netty核心实战
