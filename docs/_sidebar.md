@@ -5,5 +5,5 @@
    - 项目总结
       - [lottery](/md/project/lottery.md)
    - Java
-      - [HashMap知识点](/md/project/HashMap知识点.md)
+      - [HashMap知识点](/md/Java/HashMap知识点.md)
       
