@@ -6,4 +6,5 @@
       - [lottery](/md/project/lottery.md)
    - Java
       - [HashMap知识点](/md/Java/HashMap知识点.md)
-      
+   - 名单
+      - [名单](/md/list/list.md)
